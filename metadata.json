@@ -1,0 +1,6 @@
+{
+  "name": "বিশ্ব দর্পণ | Bishwa Darpon",
+  "description": "সত্যের সন্ধানে, মানুষের পাশে — বাংলাদেশ ও বিশ্বজুড়ে বাংলা ভাষাভাষী পাঠকদের জন্য আধুনিক ডিজিটাল সংবাদ মাধ্যম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
